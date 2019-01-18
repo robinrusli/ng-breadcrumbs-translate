@@ -1,0 +1,54 @@
+{
+  "name": "ng-breadcrumbs-translate",
+  "version": "0.1.3",
+  "description": "A better AngularJS service to help with breadcrumb-style navigation between views",
+  "keywords": [
+    "ng-breadcrumbs",
+    "ng-breadcrumbs-translate",
+    "angular",
+    "angularjs",
+    "breadcrumbs",
+    "navigation",
+    "route"
+  ],
+  "authors": [
+    "Lucas Espindola (http://github.com/lukax)",
+    "Ian Kennington Walter (http://ianvonwalter.com)"
+  ],
+  "license": "MIT",
+  "homepage": "http://lukax.github.io/ng-breadcrumbs-translate/",
+  "main": [
+    "dist/ng-breadcrumbs.min.js",
+    "README.md"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "public",
+    "src",
+    "index.html",
+    "gulpfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "angular": ">= 1.2.5",
+    "angular-route": ">= 1.2.5",
+    "angular-translate": "~2.2.0"
+  },
+  "resolutions": {
+    "angular": "1.2.11"
+  },
+  "devDependencies": {
+    "angular-mocks": "v1.2.11"
+  },
+  "_release": "0.1.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.3",
+    "commit": "b8d9fd5ac6a3e28b600b3f72bace03f2a1a685f0"
+  },
+  "_source": "https://github.com/lukax/ng-breadcrumbs-translate.git",
+  "_target": "~0.1.3",
+  "_originalSource": "ng-breadcrumbs-translate"
+}
